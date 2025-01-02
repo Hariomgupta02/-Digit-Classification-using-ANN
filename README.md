@@ -1,1 +1,1 @@
-# -Digit-Classification-using-ANN
+# -Digit-Classification-using-ANN in Mnist dataset
